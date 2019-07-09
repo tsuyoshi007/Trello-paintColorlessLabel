@@ -4,13 +4,19 @@
 
 ### Prerequisites
 
+**Getting Application Key and User Token**
+Before you use these system, please go to https://trello.com/app-key and get the application key and user token.
+
+**Getting Board_ID**
+![board_id](https://user-images.githubusercontent.com/45678324/59160759-db2f8c80-8b03-11e9-830c-4df00f8de105.png)
+Board_ID was underlined
+
 ### Inside .env file
 
 * TRELLO_KEY=[string][1] (App_key)
 * TRELLO_TOKEN=[string][1] (User_token)
 * TRELLO_MBID=[string][1]  (MemberID)
 * TRELLO_BOARDID=[string][1]
-
 
 You also need :
   -*trello*
