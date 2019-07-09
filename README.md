@@ -22,7 +22,7 @@ You also need :
 npm install
 ```
 
-* Please specify the color you would like to paint the label in a functionCalling
+* Please specify the color you would like to paint the label in the functionCalling
 
 ## Running the tests
 
